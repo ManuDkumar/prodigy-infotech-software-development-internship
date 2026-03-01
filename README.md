@@ -2,29 +2,15 @@
 
 
 
-This repository contains all tasks completed during my internship.
-
-
-
-\## Tasks
-
-
-
-\### Task 01 – Temperature Conversion Program
-
-A Java console-based application that converts temperatures between Celsius, Fahrenheit, and Kelvin with input validation and multiple convers# Prodigy InfoTech – Software Development Internship
-
-
-
 This repository contains the projects completed during my Software Development Internship at Prodigy InfoTech.
 
 
 
-The focus of these projects is to strengthen core programming skills, problem-solving ability, and structured software development practices using Java.
+The focus of these projects is to strengthen core Java fundamentals, structured problem-solving, and clean software design practices.
 
 
 
-
+---
 
 
 
@@ -38,9 +24,11 @@ Internship
 
 ├── task\_02\_number\_guessing\_game  
 
+├── task\_03\_contact\_management  
 
 
 
+---
 
 
 
@@ -58,13 +46,13 @@ Key Concepts:
 
 \- Methods
 
-\- Conditional statements
+\- Conditional logic
 
 \- User input handling
 
 
 
-
+---
 
 
 
@@ -78,7 +66,7 @@ Key Concepts:
 
 \- Random number generation
 
-\- Loops and conditional logic
+\- Loops and conditionals
 
 \- Input validation
 
@@ -86,7 +74,41 @@ Key Concepts:
 
 
 
+---
 
+
+
+\### 3. Contact Management System
+
+A console-based application that allows users to manage contacts with persistent file storage.
+
+
+
+Features:
+
+\- Add, View, Edit, Delete contacts
+
+\- CSV-based file persistence
+
+\- Automatic data loading on restart
+
+
+
+Key Concepts:
+
+\- Object-Oriented Programming
+
+\- File I/O (BufferedReader, BufferedWriter)
+
+\- Collections (ArrayList)
+
+\- CRUD operations
+
+\- Data persistence
+
+
+
+---
 
 
 
@@ -100,7 +122,7 @@ Key Concepts:
 
 
 
-
+---
 
 
 
