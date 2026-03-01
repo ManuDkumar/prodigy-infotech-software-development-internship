@@ -6,3 +6,14 @@ bin/
 .classpath
 .project
 .settings/
+
+# Runtime data files
+contacts.csv
+
+# Common build folders (if created later)
+out/
+target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
