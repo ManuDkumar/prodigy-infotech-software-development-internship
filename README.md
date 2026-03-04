@@ -10,7 +10,7 @@ The focus of these projects is to strengthen core Java fundamentals, structured 
 
 
 
----
+
 
 
 
@@ -26,9 +26,9 @@ Internship
 
 ├── task\_03\_contact\_management  
 
+├── task_04_sudoku_solver  
 
 
----
 
 
 
@@ -52,7 +52,7 @@ Key Concepts:
 
 
 
----
+
 
 
 
@@ -74,7 +74,6 @@ Key Concepts:
 
 
 
----
 
 
 
@@ -108,7 +107,22 @@ Key Concepts:
 
 
 
----
+
+
+### 4. Sudoku Solver
+A Java program that solves a Sudoku puzzle automatically using a backtracking algorithm.
+
+Features:
+- Solves a 9x9 Sudoku grid
+- Validates row, column, and subgrid constraints
+- Uses recursion and backtracking to find the solution
+
+Concepts Used:
+- Recursion
+- Backtracking algorithms
+- 2D arrays
+- Constraint validation
+
 
 
 
@@ -122,7 +136,7 @@ Key Concepts:
 
 
 
----
+
 
 
 
