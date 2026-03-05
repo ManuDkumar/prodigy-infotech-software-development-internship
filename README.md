@@ -28,6 +28,7 @@ Internship
 
 ├── task_04_sudoku_solver  
 
+├── task_05_web_scraper  
 
 
 
@@ -117,11 +118,24 @@ Features:
 - Validates row, column, and subgrid constraints
 - Uses recursion and backtracking to find the solution
 
+
 Concepts Used:
 - Recursion
 - Backtracking algorithms
 - 2D arrays
 - Constraint validation
+
+
+### Task 05 – Web Scraper
+A Java-based web scraping tool that extracts product data such as name, price, and rating from an online e-commerce website and stores the results in a CSV file.
+
+
+Concepts:
+- Web scraping
+- HTML parsing
+- Jsoup library
+- File handling
+- Data extraction
 
 
 
@@ -133,6 +147,7 @@ Concepts Used:
 \- Eclipse / STS
 
 \- Git \& GitHub
+
 
 
 
