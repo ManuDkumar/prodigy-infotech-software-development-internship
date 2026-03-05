@@ -9,6 +9,8 @@ bin/
 
 # Runtime data files
 contacts.csv
+products.csv
+
 
 # Common build folders (if created later)
 out/
