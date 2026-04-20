@@ -1,36 +1,39 @@
-\# Task 01 – Temperature Conversion Program
+# Task 01 – Temperature Conversion Program
 
 
 
-\## Description
+## Description
 
 This Java console-based application converts temperatures between:
 
-\- Celsius (°C)
+- Celsius (°C)
 
-\- Fahrenheit (°F)
+- Fahrenheit (°F)
 
-\- Kelvin (K)
-
-
-
-\## Features
-
-\- Converts between all three temperature scales
-
-\- Input validation
-
-\- Allows multiple conversions in one run
-
-\- Structured and clean Java implementation
+- Kelvin (K)
 
 
 
-\## Technologies Used
+## Features
 
-\- Java
+- Converts between all three temperature scales
 
-\- Scanner class
+- Input validation
 
-\- Basic OOP principles
+- Allows multiple conversions in one run
 
+- Structured and clean Java implementation
+
+
+
+## Technologies Used
+
+- Java
+
+- Scanner class
+
+- Basic OOP principles
+
+
+## Author
+Manu Kumar H N 
