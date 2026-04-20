@@ -76,7 +76,7 @@ This project demonstrates fundamental Java programming concepts and structured p
 
 
 
-Author: Manu Kumar  
+Author: Manu Kumar H N
 
 Year: 2026
 
