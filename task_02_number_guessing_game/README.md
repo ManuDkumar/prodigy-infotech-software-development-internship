@@ -1,8 +1,8 @@
-\# Number Guessing Game
+# Number Guessing Game
 
 
 
-\## Overview
+## Overview
 
 A console-based Number Guessing Game implemented in Java.  
 
@@ -16,67 +16,66 @@ This project demonstrates fundamental Java programming concepts and structured p
 
 
 
-\## Features
+## Features
 
-\- Random number generation
+- Random number generation
 
-\- User input handling with validation
+- User input handling with validation
 
-\- Iterative guessing using loops
+- Iterative guessing using loops
 
-\- Feedback mechanism (Too High / Too Low / Close)
+- Feedback mechanism (Too High / Too Low / Close)
 
-\- Attempt tracking
-
-
-
-
-
-\## Technical Implementation
-
-\- Developed using Java (JDK 17)
-
-\- Utilizes `java.util.Random` for number generation
-
-\- Uses `java.util.Scanner` for user input
-
-\- Follows basic Object-Oriented principles
-
-\- Clean and modular logic separation
+- Attempt tracking
 
 
 
 
 
-\## How to Run
+## Technical Implementation
 
-1\. Open the project in an IDE (Eclipse / STS).
+- Developed using Java (JDK 17)
 
-2\. Run `NumberGuessingGame.java`.
+- Utilizes `java.util.Random` for number generation
 
-3\. Enter guesses as prompted in the console.
+- Uses `java.util.Scanner` for user input
 
+- Follows basic Object-Oriented principles
 
-
-
-
-\## Concepts Demonstrated
-
-\- Control flow (loops and conditionals)
-
-\- Input validation
-
-\- State tracking
-
-\- Basic game logic design
-
-\- Structured project organization
+- Clean and modular logic separation
 
 
 
 
 
-Author: Manu Kumar H N
+## How to Run
 
-Year: 2026
+1. Open the project in an IDE (Eclipse / STS).
+
+2. Run `NumberGuessingGame.java`.
+
+3. Enter guesses as prompted in the console.
+
+
+
+
+
+## Concepts Demonstrated
+
+- Control flow (loops and conditionals)
+
+- Input validation
+
+- State tracking
+
+- Basic game logic design
+
+- Structured project organization
+
+
+## Author
+Manu Kumar H N
+
+## Year
+2026
 

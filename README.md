@@ -1,113 +1,56 @@
-\# Prodigy InfoTech – Software Development Internship
-
-
+# Prodigy InfoTech – Software Development Internship
 
 This repository contains the projects completed during my Software Development Internship at Prodigy InfoTech.
-
-
-
 The focus of these projects is to strengthen core Java fundamentals, structured problem-solving, and clean software design practices.
 
 
-
-
-
-
-
-\## Repository Structure
-
-
+## Repository Structure
 
 Internship  
-
 ├── task-01-temperature-converter  
-
-├── task\_02\_number\_guessing\_game  
-
-├── task\_03\_contact\_management  
-
+├── task_02_number_guessing_game  
+├── task_03_contact_management  
 ├── task_04_sudoku_solver  
-
 ├── task_05_web_scraper  
 
 
+## Projects
 
-
-\## Projects
-
-
-
-\### 1. Temperature Conversion Program
+### 1. Temperature Conversion Program
 
 A console-based Java application that converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
-
-
 Key Concepts:
+- Methods
+- Conditional logic
+- User input handling
 
-\- Methods
-
-\- Conditional logic
-
-\- User input handling
-
-
-
-
-
-
-
-\### 2. Number Guessing Game
+### 2. Number Guessing Game
 
 An interactive console-based game where the system generates a random number and the user attempts to guess it with guided feedback and attempt tracking.
 
-
-
 Key Concepts:
+- Random number generation
+- Loops and conditionals
+- Input validation
+- Structured program design
 
-\- Random number generation
-
-\- Loops and conditionals
-
-\- Input validation
-
-\- Structured program design
-
-
-
-
-
-
-\### 3. Contact Management System
+### 3. Contact Management System
 
 A console-based application that allows users to manage contacts with persistent file storage.
 
-
-
 Features:
-
-\- Add, View, Edit, Delete contacts
-
-\- CSV-based file persistence
-
-\- Automatic data loading on restart
-
+- Add, View, Edit, Delete contacts
+- CSV-based file persistence
+- Automatic data loading on restart
 
 
 Key Concepts:
-
-\- Object-Oriented Programming
-
-\- File I/O (BufferedReader, BufferedWriter)
-
-\- Collections (ArrayList)
-
-\- CRUD operations
-
-\- Data persistence
-
-
-
+- Object-Oriented Programming
+- File I/O (BufferedReader, BufferedWriter)
+- Collections (ArrayList)
+- CRUD operations
+- Data persistence
 
 
 ### 4. Sudoku Solver
@@ -128,8 +71,6 @@ Concepts Used:
 
 ### Task 05 – Web Scraper
 A Java-based web scraping tool that extracts product data such as name, price, and rating from an online e-commerce website and stores the results in a CSV file.
-
-
 Concepts:
 - Web scraping
 - HTML parsing
@@ -138,24 +79,18 @@ Concepts:
 - Data extraction
 
 
+## Tech Stack
+
+- Java (JDK 17)
+
+- Eclipse / STS
+
+- Git & GitHub
 
 
-\## Tech Stack
+## Author:
+Manu Kumar H N
 
-\- Java (JDK 17)
-
-\- Eclipse / STS
-
-\- Git \& GitHub
-
-
-
-
-
-
-
-
-Author: Manu Kumar H N
-
-Year: 2026
+## Year:
+2026
 
